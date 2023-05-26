@@ -3,7 +3,7 @@
 
 # Solved case 
 Tags: pip and SSL  
-Problem: pip is configured with locations that require TLS/SSL, however the ssl module in Python is not available. 
+Problem: pip is configured with locations that require TLS/SSL, however the ssl module in Python is not available.  
 Description: Above error when issue 'pip install module' with pip and openssl. 
 Solution: Rebuild Python from source. 
 Steps: 
