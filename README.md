@@ -14,4 +14,8 @@ cd Python-3.9.16
 sudo ./configure --prefix=/usr/local/python3 --with-openssl=/usr/local/openssl 
 sudo make 
 sudo make altinstall 
-sudo ln -s /usr/local/python3/bin/python3 /usr/bin/python3 
+sudo ln -s /usr/local/python3/bin/python3 /usr/bin/python3  
+
+test  
+test  
+test  
